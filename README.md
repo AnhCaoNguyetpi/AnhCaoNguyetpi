@@ -6,7 +6,6 @@ I am a data professional with one year of experience working across the data ana
 
 ### 🔗 Connect with me
 
-[![Check out my portfolio](https://img.shields.io/badge/-CHECK%20OUT%20MY%20PORTFOLIO-1f425f?style=for-the-badge)]([link](https://github.com/AnhCaoNguyetpi))
 [![LinkedIn](https://img.shields.io/badge/-Visit%20My%20LinkedIn-blue?style=for-the-badge)]([link](https://www.linkedin.com/in/cao-%C3%A1nh-572425291/))
 [![Email](https://img.shields.io/badge/-Email%20Me-ff6347?style=for-the-badge)](mailto:caonguyetanh1501@gmail.com)
 
