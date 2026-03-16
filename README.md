@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Anh Cao
 
-I am a data scientist with 1 year of professional experience, text mining, data science, machine learning, and consumer behavior analysis. I have a strong ability to translate complex datasets into clear, actionable insights that support strategic decision-making. By combining statistical techniques with domain expertise, I deliver tailored solutions that address specific business needs. I am committed to continuous learning and consistently seek out the latest tools and methodologies to enhance the accuracy and impact of my work.
+I am a data professional with one year of experience working across the data analytics lifecycle, including data exploration, modeling, and insight generation. I have experience in text mining, machine learning, and consumer behavior analysis, and I specialize in transforming complex datasets into clear, actionable insights that support data-driven decision-making. By combining statistical techniques with domain knowledge, I develop analytical solutions that address real business problems. I am committed to continuous learning and actively explore new tools and methodologies to improve the effectiveness and impact of my work.
 
 ---
 
