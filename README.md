@@ -65,25 +65,25 @@ Currently, I am exploring:
 
 ## GitHub Statistics
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/AnhCaoNguyetpi">
     <img
       width="495"
       src="https://github-stats-extended.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-      alt="Anh Cao's GitHub statistics"
+      alt="Cao Anh's GitHub statistics"
     />
   </a>
+</p>
 
-  <br /><br />
-
+<p align="center">
   <a href="https://github.com/AnhCaoNguyetpi">
     <img
       width="495"
-      src="https://streak-stats.demolab.com?user=AnhCaoNguyetpi&theme=github-dark-blue&hide_border=true"
-      alt="Anh Cao's GitHub contribution streak"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=AnhCaoNguyetpi&theme=github-dark-blue&hide_border=true"
+      alt="Cao Anh's GitHub contribution streak"
     />
   </a>
-</div>
+</p>
 ---
 
 
