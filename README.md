@@ -65,26 +65,29 @@ Currently, I am exploring:
 
 ## GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Anh Cao's GitHub statistics"
+  />
+</p>
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true"
-  alt="Anh Cao's GitHub statistics"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhCaoNguyetpi&layout=compact&theme=github_dark&hide_border=true"
-  alt="Anh Cao's most-used languages"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AnhCaoNguyetpi&theme=github-dark-blue&hide_border=true"
+    alt="Anh Cao's GitHub contribution streak"
+  />
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>Building AI systems that are useful, measurable, and reliable.</i>
+</p>
 
-*Interested in building AI systems that are useful, measurable, and reliable.*
 
-</div>
+
+
+
+
