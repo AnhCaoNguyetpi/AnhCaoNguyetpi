@@ -11,7 +11,6 @@ I build practical and reliable AI systems.
 
 </div>
 
----
 
 ## About Me
 
@@ -28,8 +27,6 @@ Currently, I am exploring:
 - AI evaluation and safety
 - Machine learning for real-world applications
 - Mathematical optimization and simulation
-
----
 
 ## Technical Skills
 
@@ -84,7 +81,6 @@ Currently, I am exploring:
     />
   </a>
 </p>
----
 
 
 
