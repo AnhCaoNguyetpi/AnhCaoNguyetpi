@@ -1,168 +1,239 @@
+<div align="center">
+
 # Hi, I'm Anh Cao 👋
 
-### Applied AI Engineer | Machine Learning | RAG & Agentic Systems
+### Applied AI Engineer · Machine Learning · RAG · Optimization
+
+Building AI systems that are useful, measurable, and reliable.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anh_Cao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/cao-%C3%A1nh-572425291/))
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caonguyetanh1501@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AnhCaoNguyetpi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnhCaoNguyetpi)
+
+</div>
+
+---
+
+## About Me
 
 I am a Computer Science undergraduate at the National Economics University, 
-focused on building reliable, end-to-end AI and machine learning systems.
+focused on building end-to-end AI and machine learning systems.
 
-My work spans retrieval-augmented generation, agentic workflows, predictive 
-modeling, and mathematical optimization. I enjoy turning research ideas into 
-practical applications—from designing RAG assistants with safety guardrails to 
-developing stock-risk models and constrained drone-routing algorithms.
+My interests span retrieval-augmented generation, agentic workflows, predictive 
+modeling, and mathematical optimization. I enjoy transforming research ideas 
+into practical systems—from developing reliable RAG assistants to designing 
+stock-risk models and constrained drone-routing algorithms.
 
-- 🔭 Currently conducting research on constrained drone routing and 
-  drone-assisted search and rescue
-- 🧠 Building RAG, agentic AI, and machine learning systems
+- 🔭 Conducting research on constrained drone routing and drone-assisted 
+  search and rescue
+- 🤖 Building RAG, agentic AI, and machine learning applications
 - 📝 Co-author of a constrained drone-routing paper accepted for presentation 
-  at COMOSA 2026
-- 🏆 Top 5 Finalist at the Data Science Talent Competition 2025
+  at **COMOSA 2026**
+- 🏆 **Top 5 Finalist** at the Data Science Talent Competition 2025
 - 🌱 Exploring AI evaluation, reliable LLM systems, and production ML
 - 📍 Based in Hanoi, Vietnam
 
 ---
 
-## Connect with Me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caonguyetanh1501@gmail.com)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🩺 VDIAB
 
-## Featured Work
+**AI-Powered Diabetes Management Platform**
 
-### 🩺 VDIAB — AI-Powered Diabetes Management Platform
+A role-based healthcare platform integrating health monitoring, medication 
+tracking, appointments, clinical alerts, and AI-assisted physician workflows.
 
-A role-based diabetes management platform integrating health monitoring, 
-medication tracking, appointments, clinical alerts, and AI-assisted physician 
-workflows.
+**Highlights**
 
-- Built with Next.js, FastAPI, PostgreSQL, LangGraph, and Docker
-- Developed a RAG assistant over **1,119 indexed chunks from 53 authoritative 
-  medical sources**
-- Generated source-linked answers and automated 7-day clinical summaries
+- Developed a RAG assistant over **1,119 indexed chunks**
+- Curated knowledge from **53 authoritative medical sources**
+- Generated source-linked answers and 7-day clinical summaries
 - Passed **30 clinical and data-validation tests**
-- Passed **38 adversarial AI-safety scenarios**, including emergency-response 
-  and prompt-injection tests
+- Passed **38 adversarial AI-safety scenarios**
+- Tested emergency handling and prompt-injection protection
 
-[View repository](VDIAB_REPOSITORY_URL)
+**Technologies**
+
+`Next.js` `FastAPI` `PostgreSQL` `LangGraph` `RAG` `Docker`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛍️ AI Product Advisor
 
-An agentic product-advisory system that helps users identify and compare suitable 
-consumer-electronics products.
+**Agentic Consumer-Electronics Advisor**
+
+An AI advisory system that identifies user requirements, asks targeted 
+clarification questions, and recommends suitable products.
+
+**Highlights**
 
 - Supports **14 product categories**
-- Uses a human-in-the-loop workflow to clarify missing user requirements
-- Combines semantic retrieval, hard constraints, and preference-based ranking
-- Implements real-time responses, persistent checkpoints, and model fallback
-- Includes a deterministic prompt-injection screening layer with **P95 processing 
-  latency below 2 ms for inputs up to 10 KB**
+- Implements a human-in-the-loop recommendation workflow
+- Combines semantic retrieval with hard-constraint filtering
+- Provides real-time responses through Server-Sent Events
+- Supports persistent checkpoints and automatic model fallback
+- Achieves **P95 below 2 ms** for prompt-injection screening on inputs up to 10 KB
 
-[View repository](PRODUCT_ADVISOR_REPOSITORY_URL)
+**Technologies**
 
-### 📈 Stock Screening and Risk Classification System
+`LangGraph` `Gemini` `Qdrant` `FastAPI` `React` `SSE`
 
-A four-stage investment-support pipeline for stocks listed on HOSE, HNX, and UPCOM.
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Stock Screening System
+
+**Risk Classification and Signal Prediction**
+
+A four-stage investment-support pipeline for stocks listed on HOSE, HNX, 
+and UPCOM.
+
+**Highlights**
 
 - Combines fundamental indicators and technical signals
-- Uses LightGBM for risk classification and LSTM for signal prediction
-- Automates BUY/SELL signal and portfolio-risk updates through Telegram
-- Generated a **29.35% cumulative return**, **76.92% win rate**, and 
-  **−4.06% maximum drawdown** across 52 simulated backtest trades
+- Uses LightGBM for risk classification
+- Uses LSTM for signal prediction
+- Automates market monitoring and Telegram notifications
+- Generated a **29.35% cumulative backtest return**
+- Achieved a **76.92% win rate**
+- Recorded a **−4.06% maximum drawdown**
+- Evaluated across **52 simulated trades**
 
-[View repository](STOCK_PROJECT_REPOSITORY_URL)
+**Technologies**
 
-### 🚁 Constrained Drone-Routing Research
+`Python` `LightGBM` `LSTM` `FiinQuantX` `Telegram API`
 
-Research on mathematical optimization for energy- and communication-constrained 
-drone routing.
+</td>
+<td width="50%" valign="top">
 
-- Implemented a CPLEX-based optimization model with energy, time-window, and 
-  communication constraints
-- Evaluated the model on **255 benchmark instances**
+### 🚁 Drone-Routing Research
+
+**Constrained Mathematical Optimization**
+
+Research on energy-, time-, and communication-constrained drone routing.
+
+**Highlights**
+
+- Developed a CPLEX-based optimization model
+- Evaluated on **255 benchmark instances**
 - Reduced travel distance by up to **37.5%**
 - Maintained at least **84.5% service coverage**
-- Conducted **1,275 computational experiments** using Python and C++
+- Conducted **1,275 computational experiments**
+- Co-authored a paper accepted for **COMOSA 2026**
+
+**Technologies**
+
+`Python` `C++` `IBM CPLEX` `Mixed-Integer Programming`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Technical Skills
 
-### Programming
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+</p>
 
 ### Applied AI and Machine Learning
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-7B61FF?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-Applied_AI-8A2BE2?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" alt="LightGBM">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-Agentic_AI-6C5CE7?style=for-the-badge" alt="LangGraph">
+  <img src="https://img.shields.io/badge/RAG-Retrieval_AI-8E44AD?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/LLMs-Applied_AI-412991?style=for-the-badge" alt="LLMs">
+</p>
 
 ### Backend and Deployment
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ### Databases and Retrieval
 
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=flat-square)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant">
+  <img src="https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=for-the-badge" alt="FAISS">
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j">
+</p>
 
 ### Optimization and Analytics
 
-![IBM CPLEX](https://img.shields.io/badge/IBM_CPLEX-Optimization-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/IBM_CPLEX-Optimization-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM CPLEX">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+</p>
 
-- Linear and Mixed-Integer Programming
-- Metaheuristic Algorithms
-- Predictive Modeling
-- Time-Series Analysis
-- Data Visualization
+`Linear Programming` · `Mixed-Integer Programming` · `Metaheuristics`  
+`Predictive Modeling` · `Time-Series Analysis` · `Data Visualization`
 
 ---
 
 ## Honors and Research
 
-- 📝 Co-author of a constrained drone-routing paper accepted for presentation 
-  at **COMOSA 2026**
-- 🏆 **Top 5 Finalist** — Data Science Talent Competition 2025, FTU
-- 🥇 **Top 10%** — VinUni Datathon, among 552 teams and 1,856 participants
+| Achievement | Result |
+|---|---|
+| 📄 Constrained Drone-Routing Research | Paper accepted for presentation at **COMOSA 2026** |
+| 🏆 Data Science Talent Competition 2025 | **Top 5 Finalist** |
+| 🥇 VinUni Datathon | **Top 10%** among 552 teams and 1,856 participants |
 
 ---
 
 ## GitHub Statistics
 
-<p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Anh Cao's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhCaoNguyetpi&layout=compact&theme=github_dark&hide_border=true"
-    alt="Anh Cao's most-used languages"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AnhCaoNguyetpi&theme=github-dark-blue&hide_border=true"
-    alt="Anh Cao's GitHub contribution streak"
-  />
-</p>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  alt="Anh Cao's GitHub statistics"
+/>
+
+<img
+  width="37%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhCaoNguyetpi&layout=compact&theme=github_dark&hide_border=true"
+  alt="Anh Cao's most-used languages"
+/>
+
+<br>
+
+<img
+  width="60%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AnhCaoNguyetpi&theme=github-dark-blue&hide_border=true"
+  alt="Anh Cao's GitHub contribution streak"
+/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building AI systems that are useful, measurable, and reliable.</i>
-</p>
+<div align="center">
+
+### Let's build AI systems that create measurable impact.
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnhCaoNguyetpi&color=0A66C2&style=flat-square&label=Profile+Views)
+
+</div>
