@@ -69,17 +69,17 @@ Currently, I am exploring:
   <a href="https://github.com/AnhCaoNguyetpi">
     <img
       width="495"
-      src="https://github-readme-stats.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+      src="https://github-stats-extended.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
       alt="Anh Cao's GitHub statistics"
     />
   </a>
 
-  <br />
+  <br /><br />
 
   <a href="https://github.com/AnhCaoNguyetpi">
     <img
       width="495"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=AnhCaoNguyetpi&theme=github-dark-blue&hide_border=true"
+      src="https://streak-stats.demolab.com?user=AnhCaoNguyetpi&theme=github-dark-blue&hide_border=true"
       alt="Anh Cao's GitHub contribution streak"
     />
   </a>
