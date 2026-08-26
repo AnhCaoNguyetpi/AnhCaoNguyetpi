@@ -69,7 +69,6 @@ Currently, I am exploring:
   <img 
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Anh Cao's GitHub statistics"
   />
 </p>
 
@@ -82,9 +81,6 @@ Currently, I am exploring:
 
 ---
 
-<p align="center">
-  <i>Building AI systems that are useful, measurable, and reliable.</i>
-</p>
 
 
 
