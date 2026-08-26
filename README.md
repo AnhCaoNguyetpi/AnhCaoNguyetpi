@@ -65,20 +65,25 @@ Currently, I am exploring:
 
 ## GitHub Statistics
 
-<p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true"
-  />
-</p>
+<div align="center">
+  <a href="https://github.com/AnhCaoNguyetpi">
+    <img
+      width="495"
+      src="https://github-readme-stats.vercel.app/api?username=AnhCaoNguyetpi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+      alt="Anh Cao's GitHub statistics"
+    />
+  </a>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AnhCaoNguyetpi&theme=github-dark-blue&hide_border=true"
-    alt="Anh Cao's GitHub contribution streak"
-  />
-</p>
+  <br />
 
+  <a href="https://github.com/AnhCaoNguyetpi">
+    <img
+      width="495"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=AnhCaoNguyetpi&theme=github-dark-blue&hide_border=true"
+      alt="Anh Cao's GitHub contribution streak"
+    />
+  </a>
+</div>
 ---
 
 
